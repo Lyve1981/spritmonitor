@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type": 1,
+        "name": "l"
+    },
+    {
+        "id": 3,
+        "type": 1,
+        "name": "US.gal"
+    },
+    {
+        "id": 4,
+        "type": 1,
+        "name": "Imp.gal"
+    },
+    {
+        "id": 2,
+        "type": 2,
+        "name": "kg"
+    },
+    {
+        "id": 5,
+        "type": 3,
+        "name": "kWh"
+    }
+]

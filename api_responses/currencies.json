@@ -1,0 +1,134 @@
+[
+    {
+        "id": 17,
+        "name": "ARS"
+    },
+    {
+        "id": 19,
+        "name": "AUD"
+    },
+    {
+        "id": 16,
+        "name": "BGN"
+    },
+    {
+        "id": 14,
+        "name": "BRL"
+    },
+    {
+        "id": 26,
+        "name": "BYR"
+    },
+    {
+        "id": 3,
+        "name": "CAD"
+    },
+    {
+        "id": 1,
+        "name": "CHF"
+    },
+    {
+        "id": 18,
+        "name": "CLP"
+    },
+    {
+        "id": 32,
+        "name": "CNY"
+    },
+    {
+        "id": 10,
+        "name": "CZK"
+    },
+    {
+        "id": 13,
+        "name": "DEM"
+    },
+    {
+        "id": 5,
+        "name": "DKK"
+    },
+    {
+        "id": 24,
+        "name": "EEK"
+    },
+    {
+        "id": 0,
+        "name": "EUR"
+    },
+    {
+        "id": 4,
+        "name": "GBP"
+    },
+    {
+        "id": 15,
+        "name": "HRK"
+    },
+    {
+        "id": 11,
+        "name": "HUF"
+    },
+    {
+        "id": 25,
+        "name": "ILS"
+    },
+    {
+        "id": 30,
+        "name": "ISK"
+    },
+    {
+        "id": 20,
+        "name": "LTL"
+    },
+    {
+        "id": 21,
+        "name": "LVL"
+    },
+    {
+        "id": 29,
+        "name": "MYR"
+    },
+    {
+        "id": 6,
+        "name": "NOK"
+    },
+    {
+        "id": 8,
+        "name": "PLN"
+    },
+    {
+        "id": 22,
+        "name": "RON"
+    },
+    {
+        "id": 23,
+        "name": "RUB"
+    },
+    {
+        "id": 7,
+        "name": "SEK"
+    },
+    {
+        "id": 28,
+        "name": "SGD"
+    },
+    {
+        "id": 12,
+        "name": "SIT"
+    },
+    {
+        "id": 9,
+        "name": "SKK"
+    },
+    {
+        "id": 27,
+        "name": "TRY"
+    },
+    {
+        "id": 2,
+        "name": "USD"
+    },
+    {
+        "id": 31,
+        "name": "YEN"
+    }
+]

@@ -1,0 +1,1212 @@
+{
+    "vehicletypes": [
+        {
+            "id": 1,
+            "name": "Automobile"
+        },
+        {
+            "id": 2,
+            "name": "Two-wheeler"
+        },
+        {
+            "id": 3,
+            "name": "Commercial vehicle"
+        },
+        {
+            "id": 4,
+            "name": "Quad"
+        },
+        {
+            "id": 5,
+            "name": "Other"
+        }
+    ],
+    "manufacturers": [
+        {
+            "id": 226,
+            "name": "Abarth"
+        },
+        {
+            "id": 213,
+            "name": "AC"
+        },
+        {
+            "id": 178,
+            "name": "Access"
+        },
+        {
+            "id": 270,
+            "name": "Acura"
+        },
+        {
+            "id": 77,
+            "name": "Adly"
+        },
+        {
+            "id": 79,
+            "name": "Aeon"
+        },
+        {
+            "id": 245,
+            "name": "Aixam"
+        },
+        {
+            "id": 135,
+            "name": "AJP"
+        },
+        {
+            "id": 1,
+            "name": "Alfa Romeo"
+        },
+        {
+            "id": 61,
+            "name": "Alpina"
+        },
+        {
+            "id": 83,
+            "name": "AMS"
+        },
+        {
+            "id": 58,
+            "name": "Aprilia"
+        },
+        {
+            "id": 80,
+            "name": "Arctic Cat"
+        },
+        {
+            "id": 78,
+            "name": "Argo"
+        },
+        {
+            "id": 119,
+            "name": "Asia"
+        },
+        {
+            "id": 2,
+            "name": "Aston Martin"
+        },
+        {
+            "id": 3,
+            "name": "Audi"
+        },
+        {
+            "id": 4,
+            "name": "Austin"
+        },
+        {
+            "id": 168,
+            "name": "Autobianchi"
+        },
+        {
+            "id": 115,
+            "name": "AWE"
+        },
+        {
+            "id": 248,
+            "name": "BAIC"
+        },
+        {
+            "id": 149,
+            "name": "Baijah"
+        },
+        {
+            "id": 265,
+            "name": "Bajaj"
+        },
+        {
+            "id": 144,
+            "name": "Baotian"
+        },
+        {
+            "id": 151,
+            "name": "Barkas"
+        },
+        {
+            "id": 81,
+            "name": "Barossa"
+        },
+        {
+            "id": 183,
+            "name": "Bashan"
+        },
+        {
+            "id": 203,
+            "name": "Beeline"
+        },
+        {
+            "id": 136,
+            "name": "Benelli"
+        },
+        {
+            "id": 5,
+            "name": "Bentley"
+        },
+        {
+            "id": 177,
+            "name": "Benzhou"
+        },
+        {
+            "id": 138,
+            "name": "Beta"
+        },
+        {
+            "id": 217,
+            "name": "Bimota"
+        },
+        {
+            "id": 6,
+            "name": "BMW"
+        },
+        {
+            "id": 85,
+            "name": "Bombardier"
+        },
+        {
+            "id": 84,
+            "name": "Boom"
+        },
+        {
+            "id": 275,
+            "name": "Borgward"
+        },
+        {
+            "id": 141,
+            "name": "Brilliance"
+        },
+        {
+            "id": 137,
+            "name": "BSA"
+        },
+        {
+            "id": 112,
+            "name": "Buell"
+        },
+        {
+            "id": 7,
+            "name": "Bugatti"
+        },
+        {
+            "id": 8,
+            "name": "Buick"
+        },
+        {
+            "id": 156,
+            "name": "Burelli"
+        },
+        {
+            "id": 9,
+            "name": "Cadillac"
+        },
+        {
+            "id": 120,
+            "name": "Cagiva"
+        },
+        {
+            "id": 218,
+            "name": "Can-Am"
+        },
+        {
+            "id": 122,
+            "name": "Caterham"
+        },
+        {
+            "id": 208,
+            "name": "CCM"
+        },
+        {
+            "id": 182,
+            "name": "Cectek"
+        },
+        {
+            "id": 224,
+            "name": "Cezeta"
+        },
+        {
+            "id": 232,
+            "name": "CFMOTO"
+        },
+        {
+            "id": 215,
+            "name": "Chery"
+        },
+        {
+            "id": 10,
+            "name": "Chevrolet"
+        },
+        {
+            "id": 11,
+            "name": "Chrysler"
+        },
+        {
+            "id": 12,
+            "name": "Citroen"
+        },
+        {
+            "id": 82,
+            "name": "CPI"
+        },
+        {
+            "id": 88,
+            "name": "Crazy Vehicle"
+        },
+        {
+            "id": 223,
+            "name": "Csepel"
+        },
+        {
+            "id": 269,
+            "name": "Cupra"
+        },
+        {
+            "id": 113,
+            "name": "Dacia"
+        },
+        {
+            "id": 127,
+            "name": "Daelim"
+        },
+        {
+            "id": 13,
+            "name": "Daewoo"
+        },
+        {
+            "id": 110,
+            "name": "DAF"
+        },
+        {
+            "id": 14,
+            "name": "Daihatsu"
+        },
+        {
+            "id": 222,
+            "name": "Danuvia"
+        },
+        {
+            "id": 256,
+            "name": "Datsun"
+        },
+        {
+            "id": 202,
+            "name": "Dax Cars"
+        },
+        {
+            "id": 259,
+            "name": "Dayang"
+        },
+        {
+            "id": 123,
+            "name": "DeLorean"
+        },
+        {
+            "id": 86,
+            "name": "Derbi"
+        },
+        {
+            "id": 75,
+            "name": "DeTomaso"
+        },
+        {
+            "id": 241,
+            "name": "DFM"
+        },
+        {
+            "id": 214,
+            "name": "Di Blasi"
+        },
+        {
+            "id": 150,
+            "name": "Dinli"
+        },
+        {
+            "id": 186,
+            "name": "Dnepr"
+        },
+        {
+            "id": 64,
+            "name": "Dodge"
+        },
+        {
+            "id": 154,
+            "name": "Donkervoort"
+        },
+        {
+            "id": 263,
+            "name": "DS Automobiles"
+        },
+        {
+            "id": 74,
+            "name": "Ducati"
+        },
+        {
+            "id": 87,
+            "name": "E-ATV"
+        },
+        {
+            "id": 261,
+            "name": "E-Max"
+        },
+        {
+            "id": 89,
+            "name": "E-Ton"
+        },
+        {
+            "id": 276,
+            "name": "e.GO"
+        },
+        {
+            "id": 254,
+            "name": "Energica"
+        },
+        {
+            "id": 90,
+            "name": "Explorer"
+        },
+        {
+            "id": 246,
+            "name": "FB Mondial"
+        },
+        {
+            "id": 15,
+            "name": "Ferrari"
+        },
+        {
+            "id": 16,
+            "name": "Fiat"
+        },
+        {
+            "id": 274,
+            "name": "FINE Mobile"
+        },
+        {
+            "id": 211,
+            "name": "Fisker"
+        },
+        {
+            "id": 17,
+            "name": "Ford"
+        },
+        {
+            "id": 160,
+            "name": "FSO"
+        },
+        {
+            "id": 91,
+            "name": "Gas Gas"
+        },
+        {
+            "id": 161,
+            "name": "GAZ"
+        },
+        {
+            "id": 92,
+            "name": "GG"
+        },
+        {
+            "id": 191,
+            "name": "Gilera"
+        },
+        {
+            "id": 142,
+            "name": "GMC"
+        },
+        {
+            "id": 231,
+            "name": "Great Wall"
+        },
+        {
+            "id": 148,
+            "name": "Hans Glas GmbH"
+        },
+        {
+            "id": 121,
+            "name": "Harley-Davidson"
+        },
+        {
+            "id": 163,
+            "name": "Heinkel"
+        },
+        {
+            "id": 205,
+            "name": "Hercules"
+        },
+        {
+            "id": 257,
+            "name": "Herkules Motor"
+        },
+        {
+            "id": 247,
+            "name": "Hisun"
+        },
+        {
+            "id": 140,
+            "name": "Holden"
+        },
+        {
+            "id": 250,
+            "name": "Holder"
+        },
+        {
+            "id": 18,
+            "name": "Honda"
+        },
+        {
+            "id": 216,
+            "name": "Horex"
+        },
+        {
+            "id": 117,
+            "name": "Hummer"
+        },
+        {
+            "id": 164,
+            "name": "Husaberg"
+        },
+        {
+            "id": 126,
+            "name": "Husqvarna"
+        },
+        {
+            "id": 111,
+            "name": "Hyosung"
+        },
+        {
+            "id": 19,
+            "name": "Hyundai"
+        },
+        {
+            "id": 159,
+            "name": "IHC"
+        },
+        {
+            "id": 228,
+            "name": "Indian"
+        },
+        {
+            "id": 129,
+            "name": "Infiniti"
+        },
+        {
+            "id": 251,
+            "name": "Innocenti"
+        },
+        {
+            "id": 139,
+            "name": "Iso Rivolta"
+        },
+        {
+            "id": 20,
+            "name": "Isuzu"
+        },
+        {
+            "id": 114,
+            "name": "Italjet"
+        },
+        {
+            "id": 62,
+            "name": "Iveco"
+        },
+        {
+            "id": 21,
+            "name": "Jaguar"
+        },
+        {
+            "id": 130,
+            "name": "Jawa"
+        },
+        {
+            "id": 22,
+            "name": "Jeep"
+        },
+        {
+            "id": 237,
+            "name": "Jialing"
+        },
+        {
+            "id": 145,
+            "name": "Jonway Italia"
+        },
+        {
+            "id": 108,
+            "name": "Joyner"
+        },
+        {
+            "id": 272,
+            "name": "KaiYun Motors"
+        },
+        {
+            "id": 54,
+            "name": "Kawasaki"
+        },
+        {
+            "id": 165,
+            "name": "Keeway"
+        },
+        {
+            "id": 143,
+            "name": "KHD"
+        },
+        {
+            "id": 23,
+            "name": "Kia"
+        },
+        {
+            "id": 267,
+            "name": "Kinroad"
+        },
+        {
+            "id": 93,
+            "name": "Kreidler"
+        },
+        {
+            "id": 264,
+            "name": "KSR MOTO"
+        },
+        {
+            "id": 60,
+            "name": "KTM"
+        },
+        {
+            "id": 173,
+            "name": "Kubota"
+        },
+        {
+            "id": 94,
+            "name": "KVN"
+        },
+        {
+            "id": 95,
+            "name": "Kymco"
+        },
+        {
+            "id": 65,
+            "name": "Lada"
+        },
+        {
+            "id": 179,
+            "name": "Lagonda"
+        },
+        {
+            "id": 66,
+            "name": "Lamborghini"
+        },
+        {
+            "id": 24,
+            "name": "Lancia"
+        },
+        {
+            "id": 25,
+            "name": "Land Rover"
+        },
+        {
+            "id": 170,
+            "name": "Laverda"
+        },
+        {
+            "id": 26,
+            "name": "Lexus"
+        },
+        {
+            "id": 97,
+            "name": "Lifan"
+        },
+        {
+            "id": 187,
+            "name": "Lincoln"
+        },
+        {
+            "id": 193,
+            "name": "LML"
+        },
+        {
+            "id": 153,
+            "name": "Loncin"
+        },
+        {
+            "id": 52,
+            "name": "Lotus"
+        },
+        {
+            "id": 146,
+            "name": "Mahindra"
+        },
+        {
+            "id": 229,
+            "name": "Maico"
+        },
+        {
+            "id": 152,
+            "name": "Malaguti"
+        },
+        {
+            "id": 71,
+            "name": "MAN"
+        },
+        {
+            "id": 96,
+            "name": "Masai"
+        },
+        {
+            "id": 67,
+            "name": "Maserati"
+        },
+        {
+            "id": 235,
+            "name": "Mash"
+        },
+        {
+            "id": 101,
+            "name": "Massey Ferguson"
+        },
+        {
+            "id": 118,
+            "name": "Matra"
+        },
+        {
+            "id": 68,
+            "name": "Maybach"
+        },
+        {
+            "id": 27,
+            "name": "Mazda"
+        },
+        {
+            "id": 76,
+            "name": "MBK"
+        },
+        {
+            "id": 201,
+            "name": "McLaren"
+        },
+        {
+            "id": 28,
+            "name": "Mercedes-Benz"
+        },
+        {
+            "id": 155,
+            "name": "Mercury"
+        },
+        {
+            "id": 271,
+            "name": "Merlo"
+        },
+        {
+            "id": 29,
+            "name": "MG"
+        },
+        {
+            "id": 204,
+            "name": "mia electric"
+        },
+        {
+            "id": 233,
+            "name": "Microcar"
+        },
+        {
+            "id": 220,
+            "name": "Mikilon"
+        },
+        {
+            "id": 30,
+            "name": "Mini"
+        },
+        {
+            "id": 31,
+            "name": "Mitsubishi"
+        },
+        {
+            "id": 230,
+            "name": "Monaco"
+        },
+        {
+            "id": 180,
+            "name": "Monteverdi"
+        },
+        {
+            "id": 133,
+            "name": "Moretti"
+        },
+        {
+            "id": 188,
+            "name": "Morgan"
+        },
+        {
+            "id": 73,
+            "name": "Moto Guzzi"
+        },
+        {
+            "id": 192,
+            "name": "Moto Morini"
+        },
+        {
+            "id": 98,
+            "name": "Motortek"
+        },
+        {
+            "id": 260,
+            "name": "Motowell"
+        },
+        {
+            "id": 249,
+            "name": "Mowag"
+        },
+        {
+            "id": 207,
+            "name": "Multicar"
+        },
+        {
+            "id": 131,
+            "name": "MV Agusta"
+        },
+        {
+            "id": 99,
+            "name": "MZ"
+        },
+        {
+            "id": 33,
+            "name": "Nissan"
+        },
+        {
+            "id": 252,
+            "name": "NIU"
+        },
+        {
+            "id": 210,
+            "name": "Norton"
+        },
+        {
+            "id": 255,
+            "name": "Nova Motors"
+        },
+        {
+            "id": 34,
+            "name": "Oldsmobile"
+        },
+        {
+            "id": 219,
+            "name": "Online"
+        },
+        {
+            "id": 35,
+            "name": "Opel"
+        },
+        {
+            "id": 171,
+            "name": "Packard"
+        },
+        {
+            "id": 266,
+            "name": "Panhard Levassor"
+        },
+        {
+            "id": 244,
+            "name": "Pegasus"
+        },
+        {
+            "id": 189,
+            "name": "Perodua"
+        },
+        {
+            "id": 36,
+            "name": "Peugeot"
+        },
+        {
+            "id": 181,
+            "name": "PGO"
+        },
+        {
+            "id": 57,
+            "name": "Piaggio"
+        },
+        {
+            "id": 37,
+            "name": "Plymouth"
+        },
+        {
+            "id": 100,
+            "name": "Polaris"
+        },
+        {
+            "id": 38,
+            "name": "Pontiac"
+        },
+        {
+            "id": 39,
+            "name": "Porsche"
+        },
+        {
+            "id": 55,
+            "name": "Proton"
+        },
+        {
+            "id": 128,
+            "name": "Puch"
+        },
+        {
+            "id": 238,
+            "name": "QUADIX"
+        },
+        {
+            "id": 212,
+            "name": "Quadro"
+        },
+        {
+            "id": 190,
+            "name": "Reliant"
+        },
+        {
+            "id": 41,
+            "name": "Renault"
+        },
+        {
+            "id": 194,
+            "name": "Rewaco"
+        },
+        {
+            "id": 132,
+            "name": "Rex"
+        },
+        {
+            "id": 242,
+            "name": "Ride"
+        },
+        {
+            "id": 169,
+            "name": "Rieju"
+        },
+        {
+            "id": 176,
+            "name": "Rixe"
+        },
+        {
+            "id": 69,
+            "name": "Rolls-Royce"
+        },
+        {
+            "id": 42,
+            "name": "Rover"
+        },
+        {
+            "id": 105,
+            "name": "Roxon"
+        },
+        {
+            "id": 56,
+            "name": "Royal Enfield"
+        },
+        {
+            "id": 43,
+            "name": "Saab"
+        },
+        {
+            "id": 102,
+            "name": "Sachs"
+        },
+        {
+            "id": 72,
+            "name": "Sachsenring"
+        },
+        {
+            "id": 243,
+            "name": "Santana"
+        },
+        {
+            "id": 174,
+            "name": "Saturn"
+        },
+        {
+            "id": 184,
+            "name": "Saurer"
+        },
+        {
+            "id": 124,
+            "name": "Scania"
+        },
+        {
+            "id": 44,
+            "name": "Seat"
+        },
+        {
+            "id": 103,
+            "name": "Seikel"
+        },
+        {
+            "id": 172,
+            "name": "Shanghai Jmstar"
+        },
+        {
+            "id": 158,
+            "name": "Shineray"
+        },
+        {
+            "id": 109,
+            "name": "Simson"
+        },
+        {
+            "id": 45,
+            "name": "Skoda"
+        },
+        {
+            "id": 116,
+            "name": "Skyteam"
+        },
+        {
+            "id": 32,
+            "name": "Smart"
+        },
+        {
+            "id": 162,
+            "name": "SMC"
+        },
+        {
+            "id": 196,
+            "name": "Smiles AG"
+        },
+        {
+            "id": 273,
+            "name": "Sommer"
+        },
+        {
+            "id": 46,
+            "name": "Ssangyong"
+        },
+        {
+            "id": 199,
+            "name": "Steyr"
+        },
+        {
+            "id": 47,
+            "name": "Subaru"
+        },
+        {
+            "id": 258,
+            "name": "Super SOCO"
+        },
+        {
+            "id": 48,
+            "name": "Suzuki"
+        },
+        {
+            "id": 253,
+            "name": "SWM"
+        },
+        {
+            "id": 104,
+            "name": "SYM"
+        },
+        {
+            "id": 240,
+            "name": "Talbot"
+        },
+        {
+            "id": 166,
+            "name": "Tata"
+        },
+        {
+            "id": 195,
+            "name": "Tazzari"
+        },
+        {
+            "id": 198,
+            "name": "Tesla Motors"
+        },
+        {
+            "id": 147,
+            "name": "TGB"
+        },
+        {
+            "id": 49,
+            "name": "Toyota"
+        },
+        {
+            "id": 268,
+            "name": "TRINITY electric vehicles"
+        },
+        {
+            "id": 70,
+            "name": "Triumph"
+        },
+        {
+            "id": 209,
+            "name": "TVR"
+        },
+        {
+            "id": 175,
+            "name": "UAZ"
+        },
+        {
+            "id": 236,
+            "name": "UNU Motors"
+        },
+        {
+            "id": 185,
+            "name": "Ural"
+        },
+        {
+            "id": 106,
+            "name": "UVM"
+        },
+        {
+            "id": 167,
+            "name": "Vauxhall"
+        },
+        {
+            "id": 197,
+            "name": "VDL Bova"
+        },
+        {
+            "id": 225,
+            "name": "Vectrix"
+        },
+        {
+            "id": 262,
+            "name": "Victoria"
+        },
+        {
+            "id": 227,
+            "name": "Victory"
+        },
+        {
+            "id": 50,
+            "name": "Volkswagen"
+        },
+        {
+            "id": 51,
+            "name": "Volvo"
+        },
+        {
+            "id": 206,
+            "name": "Westfield"
+        },
+        {
+            "id": 239,
+            "name": "Wiesmann"
+        },
+        {
+            "id": 107,
+            "name": "Xinfu"
+        },
+        {
+            "id": 53,
+            "name": "Yamaha"
+        },
+        {
+            "id": 200,
+            "name": "Yamasaki"
+        },
+        {
+            "id": 234,
+            "name": "Zero Motorcycles"
+        },
+        {
+            "id": 157,
+            "name": "Zündapp"
+        },
+        {
+            "id": 221,
+            "name": "ZZR"
+        }
+    ],
+    "fuelconfiguration": [
+        {
+            "id": 1,
+            "name": "Diesel"
+        },
+        {
+            "id": 2,
+            "name": "Gasoline"
+        },
+        {
+            "id": 3,
+            "name": "LPG"
+        },
+        {
+            "id": 4,
+            "name": "CNG"
+        },
+        {
+            "id": 5,
+            "name": "Electricity"
+        },
+        {
+            "id": 6,
+            "name": "Plug-in hybrid gasoline"
+        },
+        {
+            "id": 7,
+            "name": "Plug-in hybrid diesel"
+        },
+        {
+            "id": 8,
+            "name": "Diesel with AdBlue"
+        },
+        {
+            "id": 9,
+            "name": "Hydrogen"
+        }
+    ],
+    "transmission": [
+        {
+            "id": 1,
+            "name": "manual"
+        },
+        {
+            "id": 2,
+            "name": "automatic"
+        },
+        {
+            "id": 3,
+            "name": "continuously variable"
+        },
+        {
+            "id": 4,
+            "name": "direct shift gearbox"
+        },
+        {
+            "id": 5,
+            "name": "semi-automatic"
+        }
+    ],
+    "bcunit": [
+        {
+            "id": 1,
+            "name": "km/l"
+        },
+        {
+            "id": 2,
+            "name": "l/100km"
+        },
+        {
+            "id": 3,
+            "name": "MPG (US)"
+        },
+        {
+            "id": 4,
+            "name": "MPG (Imp)"
+        },
+        {
+            "id": 5,
+            "name": "km/kg"
+        },
+        {
+            "id": 6,
+            "name": "kg/100km"
+        },
+        {
+            "id": 7,
+            "name": "mi/kg"
+        },
+        {
+            "id": 8,
+            "name": "km/kWh"
+        },
+        {
+            "id": 9,
+            "name": "kWh/100km"
+        },
+        {
+            "id": 10,
+            "name": "mi/kWh"
+        }
+    ]
+}

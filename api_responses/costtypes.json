@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Maintenance"
+    },
+    {
+        "id": 2,
+        "name": "Repair"
+    },
+    {
+        "id": 3,
+        "name": "Change tires"
+    },
+    {
+        "id": 4,
+        "name": "Change oil"
+    },
+    {
+        "id": 5,
+        "name": "Insurance"
+    },
+    {
+        "id": 6,
+        "name": "Tax"
+    },
+    {
+        "id": 7,
+        "name": "Supervisory board"
+    },
+    {
+        "id": 8,
+        "name": "Tuning"
+    },
+    {
+        "id": 9,
+        "name": "Accessories"
+    },
+    {
+        "id": 10,
+        "name": "Purchase price"
+    },
+    {
+        "id": 11,
+        "name": "Miscellaneous"
+    },
+    {
+        "id": 12,
+        "name": "Care"
+    },
+    {
+        "id": 13,
+        "name": "Payment"
+    },
+    {
+        "id": 14,
+        "name": "Registration"
+    },
+    {
+        "id": 15,
+        "name": "Financing"
+    },
+    {
+        "id": 16,
+        "name": "Refund"
+    },
+    {
+        "id": 17,
+        "name": "Fine"
+    },
+    {
+        "id": 18,
+        "name": "Parking tax"
+    },
+    {
+        "id": 19,
+        "name": "Toll"
+    },
+    {
+        "id": 20,
+        "name": "Spare parts"
+    }
+]
